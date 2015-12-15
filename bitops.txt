@@ -1,3 +1,4 @@
 ops.cpp is a c++ program for simple bit operations.
 
 supported operations: and, nand, or, xor, shifts, and conversions to/from hex, binary, and decimal numbers. 
+ 

@@ -391,7 +391,7 @@ void hex(){
 			else if (byNum[i] == '6'){
 				add *= 6;
 			}
-			else if (byNum[i] == '5'){
+			else if (byNum[i] == '5'){ 
 				add *= 5;
 			}
 			else if (byNum[i] == '4'){
