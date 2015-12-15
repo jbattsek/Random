@@ -47,7 +47,7 @@ void run(bool &started, int &choice){
 		cout << "5. Shift Left\n";
 		cout << "6. Shift Right\n";
 		cout << "7. Convert Base \n";
-		cout << "8. Quit\n\n";
+		cout << "8. Quit\n\n"; 
 		cout << "(Enter a number): ";
 		cin >> choice;
 		cout << endl;
