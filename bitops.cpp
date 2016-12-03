@@ -3,7 +3,7 @@
 #include <cmath>
 #include <cstdlib>
 using namespace std;
-
+//AAHAHHSHHDHSHDHS NEW STUFF
 //Doesn't yet check for input errors on hex conversions
 //Doesn't enforce boundries presented by int max (should use long)
 //to add: twos complement
